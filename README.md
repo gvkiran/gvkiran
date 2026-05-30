@@ -51,9 +51,9 @@ I work on **marketing analytics at scale** — building data pipelines and model
 
 ## 📫 Connect
 
-- 💼 LinkedIn: _add your URL_
-- 🌐 Website: [shrish.co](https://shrish.co)
-- 📧 Email: _add your email_
+- 💼 LinkedIn: https://www.linkedin.com/in/kiran-g-ab0805241/
+- 🌐 Websites: [shrish.co](https://shrish.co)
+- 📧 Email: gkiran2387@gmail.com
 
 ---
 
