@@ -1,6 +1,6 @@
 # Hi, I'm Kiran 👋
 
-**Data Scientist · Founder @ TECHEVISION LLC**
+**Data Scientist · Founder @ TECHEVISION LLC / SHRISH LLC**
 
 Richmond, VA · Turning data into decisions and ideas into businesses
 
